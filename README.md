@@ -1,4 +1,4 @@
-# Vetmanager
+# 
 Desarrolladores:
 - Benjamin Navarro
 - Daniel Avila
